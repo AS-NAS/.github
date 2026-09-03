@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://as-nas.com">
-    <img src="../art/asnas_logo_2026_nb_01.png" alt="AS-NAS logo" width="360" style="max-width: 100%;">
+    <img src="../art/logo.png" alt="AS-NAS logo" width="360" style="max-width: 100%;">
   </a>
 </p>
 
